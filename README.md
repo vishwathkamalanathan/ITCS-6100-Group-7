@@ -3,11 +3,11 @@
 This project is part of the Big Data Analytics for Competitive Advantage (ITCS-6100) course from the University of North Carolina at Charlotte.
 
 ## Team Members:
--Vishwath Kamalanathan
--Udit Gosh
--Swetha Natakala Ramakumar
--Shreya Sekhar
--Amruth Nag
+- Vishwath Kamalanathan
+- Udit Gosh
+- Swetha Natakala Ramakumar
+- Shreya Sekhar
+- Amruth Nag
 
 ##Communication Plan:
 The team intends to communicate online on discord and will make time to meet personally on campus to work on the project whenever needed. 
