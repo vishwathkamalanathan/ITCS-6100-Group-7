@@ -53,7 +53,7 @@ AWS Sagemaker link - <https://catalog.us-east-1.prod.workshops.aws/workshops/80b
 | median_house_value (target) | DECIMAL   | Median house value for households within a block (measured in US Dollars)                           |
 | ocean_proximity             | STRING    | Location of the house w.r.t ocean/sea                                                               |
 
-##Research Objectives and Question(s)
+## Research Objectives and Question(s)
 
 - Understand the distribution of the features through statistical analysis of the data
 - Develop an understanding of the correlation between different features, and the target variable (i.e. Median House Value)
