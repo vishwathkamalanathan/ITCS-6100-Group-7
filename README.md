@@ -40,3 +40,15 @@ AWS Sagemaker link - <https://catalog.us-east-1.prod.workshops.aws/workshops/80b
 
 ### Data Description:
 
+|         Column Name         | Data Type |                                             Description                                             |
+|:---------------------------:|:---------:|:---------------------------------------------------------------------------------------------------:|
+| latitude                    | DECIMAL   | A measure of how far west a house is; a higher value is farther west                                |
+| longitude                   | DECIMAL   | A measure of how far north a house is; a higher value is farther north                              |
+| housing_median_age          | INT       | Median age of a house within a block; a lower number is a newer building                            |
+| total_rooms                 | INT       | Total number of rooms within a block                                                                |
+| total_bedrooms              | INT       | Total number of bedrooms within a block                                                             |
+| population                  | DECIMAL   | Total number of people residing within a block                                                      |
+| households                  | INT       | Total number of households, a group of people residing within a home unit, for a block              |
+| median_income               | DECIMAL   | Median income for households within a block of houses (measured in tens of thousands of US Dollars) |
+| median_house_value (target) | DECIMAL   | Median house value for households within a block (measured in US Dollars)                           |
+| ocean_proximity             | STRING    | Location of the house w.r.t ocean/sea                                                               |
