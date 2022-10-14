@@ -32,9 +32,9 @@ Housing market is one of the most important indicators of economic development i
 
 ## Data Source
 
-Data - https://www.dcc.fc.up.pt/~ltorgo/Regression/cal_housing.html
+Data - <https://www.dcc.fc.up.pt/~ltorgo/Regression/cal_housing.html>
 
-AWS Sagemaker link - https://catalog.us-east-1.prod.workshops.aws/workshops/80ba0ea5-7cf9-4b8c-9d3f-1cd988b6c071/en-US/2-real-estate
+AWS Sagemaker link - <https://catalog.us-east-1.prod.workshops.aws/workshops/80ba0ea5-7cf9-4b8c-9d3f-1cd988b6c071/en-US/2-real-estate>
 
 ## Data Description
 
