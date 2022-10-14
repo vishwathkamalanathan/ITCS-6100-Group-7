@@ -52,3 +52,17 @@ AWS Sagemaker link - <https://catalog.us-east-1.prod.workshops.aws/workshops/80b
 | median_income               | DECIMAL   | Median income for households within a block of houses (measured in tens of thousands of US Dollars) |
 | median_house_value (target) | DECIMAL   | Median house value for households within a block (measured in US Dollars)                           |
 | ocean_proximity             | STRING    | Location of the house w.r.t ocean/sea                                                               |
+
+##Research Objectives and Question(s)
+
+- Understand the distribution of the features through statistical analysis of the data
+- Develop an understanding of the correlation between different features, and the target variable (i.e. Median House Value)
+- Identify the locations which have the highest median prices historically using Geospatial Feature Engineering techniques.
+- Generate insights on the ideal house price based on the population distribution
+- Evaluate different regression models like XGBoost, Random Forest and Linear Regression to find the model that best fits the business requirements
+
+
+
+
+
+
