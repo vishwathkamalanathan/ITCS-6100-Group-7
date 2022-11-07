@@ -51,7 +51,9 @@ AWS Sagemaker link - <https://catalog.us-east-1.prod.workshops.aws/workshops/80b
 | households                  | INT       | Total number of households, a group of people residing within a home unit, for a block              |
 | median_income               | DECIMAL   | Median income for households within a block of houses (measured in tens of thousands of US Dollars) |
 | median_house_value (target) | DECIMAL   | Median house value for households within a block (measured in US Dollars)                           |
-| ocean_proximity             | STRING    | Location of the house w.r.t ocean/sea                                                               |
+| ocean_proximity             | STRING    | Location of the house w.r.t ocean/sea                                                                   |
+| County                      | STRING    | County Basd on the Latitude and Longitude                                                                |
+
 
 ## Research Objectives and Question(s)
 
