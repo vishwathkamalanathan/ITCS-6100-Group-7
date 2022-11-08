@@ -38,7 +38,7 @@ Data - <https://www.dcc.fc.up.pt/~ltorgo/Regression/cal_housing.html>
 
 AWS Sagemaker link - <https://catalog.us-east-1.prod.workshops.aws/workshops/80ba0ea5-7cf9-4b8c-9d3f-1cd988b6c071/en-US/2-real-estate>
 
-<i>Note: We used latitude and logitutde to extract the county information and Perfomed analysis at the county level. Link to the County Extraction notebook - [Extraction Notebook](Jupyter-Notebooks/County_extraction.ipynb)</i>
+<i>Note: We used latitude and logitutde to extract the county information and perfomed analysis at the county level. We also added in an extra feature which is used to get the population per room for each county. Link to the County Extraction notebook - [Extraction Notebook](Jupyter-Notebooks/County_extraction.ipynb)</i>
 
 ### Data Description:
 
@@ -55,6 +55,7 @@ AWS Sagemaker link - <https://catalog.us-east-1.prod.workshops.aws/workshops/80b
 | median_house_value (target) | DECIMAL   | Median house value for households within a block (measured in US Dollars)                           |
 | ocean_proximity             | STRING    | Location of the house w.r.t ocean/sea                                                                   |
 | county                      | STRING    | County Based on the Latitude and Longitude                                                                |
+| population/rooms                      | STRING    | Gives the ration of # people to # rooms in a county                                                 |
 
 
 ## Research Objectives and Question(s)
@@ -72,6 +73,8 @@ Link of the AWS Sagemaker Jupter Notebook:
 https://grp7housing.notebook.us-east-1.sagemaker.aws/notebooks/grp7_housing.ipynb#
 
 Link to the EDA Notebook - [EDA](Jupyter-Notebooks/grp7_housing.ipynb)
+
+<i>Note: Data Preprocessing was also perfomed in the same Notebook along with EDA.</i>
 
 Link of Tableau Dashboard:
 
