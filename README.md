@@ -38,6 +38,8 @@ Data - <https://www.dcc.fc.up.pt/~ltorgo/Regression/cal_housing.html>
 
 AWS Sagemaker link - <https://catalog.us-east-1.prod.workshops.aws/workshops/80ba0ea5-7cf9-4b8c-9d3f-1cd988b6c071/en-US/2-real-estate>
 
+<i>Note: We used latitude and logitutde to extract the county information and Perfomed analysis at the county level. Link to the County Extraction notebook - [Extraction Notebook](Jupyter-Notebooks/County_extraction.ipynb)</i>
+
 ### Data Description:
 
 |         Column Name         | Data Type |                                             Description                                             |
@@ -69,9 +71,17 @@ Link of the AWS Sagemaker Jupter Notebook:
 
 https://grp7housing.notebook.us-east-1.sagemaker.aws/notebooks/grp7_housing.ipynb#
 
+Link to the EDA Notebook - [EDA](Jupyter-Notebooks/grp7_housing.ipynb)
+
 Link of Tableau Dashboard:
 
 https://public.tableau.com/app/profile/vishwath.kamalanathan/viz/ITCS-6100-Group7/Comparison#1
+
+The Dashboard has two views, 
+- Comparison: Provides the ability to compare Median House Price with other features like Mdeian House Age, Median Income and Population across different county
+- EDA: This view provides interactive charts that helps us understad Median House Price distribution with respect to other features (Can be filtered for different counties) 
+
+
 
 
 
