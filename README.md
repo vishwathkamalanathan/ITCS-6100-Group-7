@@ -76,7 +76,7 @@ Link to the EDA Notebook - [EDA](Jupyter-Notebooks/grp7_housing.ipynb)
 
 <i>Note: Data Preprocessing was also perfomed in the same Notebook along with EDA.</i>
 
-Link of Tableau Dashboard:
+Link to Tableau Dashboard:
 
 https://public.tableau.com/app/profile/vishwath.kamalanathan/viz/ITCS-6100-Group7/Comparison#1
 
