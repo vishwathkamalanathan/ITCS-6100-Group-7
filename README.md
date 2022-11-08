@@ -63,6 +63,15 @@ AWS Sagemaker link - <https://catalog.us-east-1.prod.workshops.aws/workshops/80b
 - Generate insights on the ideal house price based on the population distribution
 - Evaluate different regression models like XGBoost, Random Forest and Linear Regression to find the model that best fits the business requirements
 
+## Exploratory Data Analysis And Interactive Dashboard
+
+Link of the AWS Sagemaker Jupter Notebook:
+
+https://grp7housing.notebook.us-east-1.sagemaker.aws/notebooks/grp7_housing.ipynb#
+
+Link of Tableau Dashboard:
+
+https://public.tableau.com/app/profile/vishwath.kamalanathan/viz/ITCS-6100-Group7/Comparison#1
 
 
 
