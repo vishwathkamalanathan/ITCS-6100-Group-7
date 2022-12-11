@@ -4,7 +4,7 @@ This project is part of the Big Data Analytics for Competitive Advantage (ITCS-6
 
 ## Team Members:
 - Vishwath Kamalanathan
-- Udit Gosh
+- Udit Ghosh
 - Swetha Natakala Ramakumar
 - Shreya Sekhar
 - Amruth Nag
