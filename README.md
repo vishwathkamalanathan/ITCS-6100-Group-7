@@ -113,7 +113,7 @@ We were able to predict the Median Home Income at a county level for the Califor
 - Future Work: We can use additional data points like GDP tied up with the county level information, this could be a very good indicator for the median house prices. Additionally, we could use complex optimization algorithms like Genetic Algorithms to find the optimal hyperparameters. 
 
 ### Instructions for Individuals that may want to use our work
-  - Please refer to the readme to understadn the domain and the work 
+  - Please refer to the readme to understand the domain and the work 
   - All the work has been done using jupyter notebooks attached in the repository for reference
 
 
