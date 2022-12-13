@@ -84,6 +84,19 @@ The Dashboard has two views,
 - Comparison: Provides the ability to compare Median House Price with other features like Mdeian House Age, Median Income and Population across different county
 - EDA: This view provides interactive charts that helps us understad Median House Price distribution with respect to other features (Can be filtered for different counties) 
 
+## Analytics, Machine Learning & Evaluation and Optimization
+
+Using the data and insights from the EDA we were able to build 5 different ML models (KNN, Linear Regression, XGBoost, Decision Trees, Random Forest Regressor) models to find which model gives us the best results. 
+
+We were able to conclude that the XGBoost model outperformed every other model with a test accuracy of 75% and we performed Grid search CV to optimize the hyperparameters, which led to the increase in accuracy of 77%.
+
+We also used AWS Sagemaker Canvas to train the model in an optimized fashion with accuracy of 78%.
+
+
+## Results
+
+We were able to predict the Median Home Income at a county level for the California Housing Market with an accuracy of 77%. The entire project was planned and executed using the CRISP-DM process. 
+
 
 
 
