@@ -103,17 +103,13 @@ We were able to predict the Median Home Income at a county level for the Califor
 
 ## Comments
 
-- Data Cleaning: 
-  The dataset we have taken is the California housing dataset. By using Latitude and Longitude in the dataset, we identified the address and derived    county from it to understand where the house is located. The dataset contains null values, the null values are eliminated since it is negligible.
+- Data Cleaning: The dataset we have taken is the California housing dataset. By using Latitude and Longitude in the dataset, we identified the address and derived    county from it to understand where the house is located. The dataset contains null values, the null values are eliminated since it is negligible.
  
-- Engineered variables 
-  We used the latitude and longitude data to get the county level information and created another column that measures population per room at a county level. 
+- Engineered variables: We used the latitude and longitude data to get the county level information and created another column that measures population per room at a county level. 
 
-- Data Manupulation 
-  For scaling the features, used minmaxscaler to scale the features. Use dummies for ocean proximity and county features.
+- Data Manupulation: For scaling the features, used minmaxscaler to scale the features. Use dummies for ocean proximity and county features.
 
-- Future Work:
-  We can use additional data points like GDP tied up with the county level information, this could be a very good indicator for the median house prices. Additionally, we could use complex optimization algorithms like Genetic Algorithms to find the optimal hyperparameters. 
+- Future Work: We can use additional data points like GDP tied up with the county level information, this could be a very good indicator for the median house prices. Additionally, we could use complex optimization algorithms like Genetic Algorithms to find the optimal hyperparameters. 
 
 ### Instructions for Individuals that may want to out your work
   - Please refer to the readme to understadn the domain and the work 
