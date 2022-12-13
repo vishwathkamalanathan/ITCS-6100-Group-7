@@ -84,7 +84,10 @@ The Dashboard has two views,
 - Comparison: Provides the ability to compare Median House Price with other features like Mdeian House Age, Median Income and Population across different county
 - EDA: This view provides interactive charts that helps us understad Median House Price distribution with respect to other features (Can be filtered for different counties) 
 
-## Analytics, Machine Learning & Evaluation and Optimization
+## Analytics, Machine Learning, Evaluation and Optimization
+
+Link to the Notebook - [EDA](Jupyter-Notebooks/grp7_housing.ipynb)
+<i>Note: Models are trained and optimized after the EDA section in the Notebook. 
 
 Using the data and insights from the EDA we were able to build 5 different ML models (KNN, Linear Regression, XGBoost, Decision Trees, Random Forest Regressor) models to find which model gives us the best results. 
 
@@ -96,6 +99,28 @@ We also used AWS Sagemaker Canvas to train the model in an optimized fashion wit
 ## Results
 
 We were able to predict the Median Home Income at a county level for the California Housing Market with an accuracy of 77%. The entire project was planned and executed using the CRISP-DM process. 
+
+
+## Comments
+
+- Data Cleaning: 
+  The dataset we have taken is the California housing dataset. By using Latitude and Longitude in the dataset, we identified the address and derived    county from it to understand where the house is located. The dataset contains null values, the null values are eliminated since it is negligible.
+ 
+- Engineered variables 
+  We used the latitude and longitude data to get the county level information and created another column that measures population per room at a county level. 
+
+- Data Manupulation 
+  For scaling the features, used minmaxscaler to scale the features. Use dummies for ocean proximity and county features.
+
+- Future Work:
+  We can use additional data points like GDP tied up with the county level information, this could be a very good indicator for the median house prices. Additionally, we could use complex optimization algorithms like Genetic Algorithms to find the optimal hyperparameters. 
+
+### Instructions for Individuals that may want to out your work
+  - Please refer to the readme to understadn the domain and the work 
+  - All the work has been done using jupyter notebooks attached in the repository for reference
+
+
+
 
 
 
