@@ -88,7 +88,7 @@ The Dashboard has two views,
 
 Link to the Notebook - [EDA](Jupyter-Notebooks/grp7_housing.ipynb)
 
-Link to the screenshots of the notebook on AWS - [EDA](Deliverable-3-Screenshots.pdf)
+Link to the screenshots of the notebook on AWS - [Screenshots](Deliverable-3-Screenshots.pdf)
 
 <i>Note: Models are trained and optimized after the EDA section in the Notebook.</i>
 
