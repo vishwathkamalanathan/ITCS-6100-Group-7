@@ -88,6 +88,8 @@ The Dashboard has two views,
 
 Link to the Notebook - [EDA](Jupyter-Notebooks/grp7_housing.ipynb)
 
+Link to the screenshots of the notebook on AWS - [EDA](Deliverable-3-Screenshots.pdf)
+
 <i>Note: Models are trained and optimized after the EDA section in the Notebook.</i>
 
 Using the data and insights from the EDA we were able to build 5 different ML models (KNN, Linear Regression, XGBoost, Decision Trees, Random Forest Regressor) models to find which model gives us the best results. 
