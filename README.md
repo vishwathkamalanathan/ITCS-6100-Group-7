@@ -117,6 +117,9 @@ We were able to predict the Median Home Income at a county level for the Califor
 ### Instructions for Individuals that may want to use our work
   - Please refer to the readme to understand the domain and the work 
   - All the work has been done using jupyter notebooks attached in the repository for reference
+  
+### Presentation Recording Link
+  - https://drive.google.com/file/d/1a_BwqngoZ0ttAtYzKbDdjNKVvUBxcSqq/view?usp=share_link
 
 
 
