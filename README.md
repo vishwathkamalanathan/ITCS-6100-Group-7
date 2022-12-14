@@ -86,7 +86,7 @@ The Dashboard has two views,
 
 ## Analytics, Machine Learning, Evaluation and Optimization
 
-Link to the Notebook - [EDA](Jupyter-Notebooks/grp7_housing.ipynb)
+Link to the Notebook - [Model Training](Jupyter-Notebooks/grp7_housing.ipynb)
 
 Link to the screenshots of the notebook on AWS - [Screenshots](Deliverable-3-Screenshots.pdf)
 
